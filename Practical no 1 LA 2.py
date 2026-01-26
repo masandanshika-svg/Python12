@@ -15,4 +15,5 @@ print("Vendor Name        :", name)
 print("Year of Association:", year)
 print("Contact Number     :", contact)
 print("Email ID           :", email)
+
 print("Annual Purchase    : ₹", total)
